@@ -1,0 +1,13 @@
+{
+  "name": "scaleformlogger",
+  "version-string": "1.0.0",
+  "description": "Enables log messages from Scaleform to be written to the SKSE log",
+  "homepage": "https://github.com/Exit-9B/ScaleformLogger",
+  "license": "MIT",
+  "dependencies": [
+    "boost-atomic",
+    "boost-stl-interfaces",
+    "span-lite",
+    "spdlog"
+  ]
+}
